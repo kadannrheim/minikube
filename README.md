@@ -9,12 +9,16 @@ Configuration OS:
     nameOS:st1
     master:yes
     login:kadannr
-    pass: qwe123
+    pass:qwe123
     root:yes
     languages:english
+    OpenSSHserver:yes
+    dns:st1.local
+    ip:10.0.2.15/24
 Resourses:
     CPU:2core
     RAM:2048Mb
+    storage:75gb (use an entire disk)
 Versions:
     ubuntu:2404
     bash:
