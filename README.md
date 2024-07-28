@@ -21,7 +21,7 @@ Resourses:
     storage:75gb (use an entire disk)
 Versions:
     ubuntu:2404
-    bash:
+    bash:5.2.21(1)-release
     ansible:
     vagrant:
     kubernetes:
@@ -29,3 +29,5 @@ Versions:
     kubectl:
     helm:
     PSQL:
+Demons:
+    ssh: `sudo systemctl status ssh`
