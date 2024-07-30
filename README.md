@@ -22,8 +22,9 @@ Resourses:
 Versions:
     ubuntu:2404
     bash:5.2.21(1)-release
-    ansible:
+    ansible:core 2.16.9
     vagrant:
+    virtualbox:7.0.16_Ubuntur162802
     kubernetes:
     docker:
     kubectl:
